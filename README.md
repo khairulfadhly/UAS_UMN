@@ -2,6 +2,8 @@
 IF670-B Mobile Cross-Platform Programming
 Folder projek UAS ionic = https://drive.google.com/drive/folders/1F-imbALgWnpaic_atGXeoVR4Fkk8auam?usp=sharing  (Ditaruh di github terlalu besar, jadi ditaruh di drive)
 
+File FIX + Revisi (alaunggul)
+
 Kel B: (Aplikasi pemesanan menu restaurant) Resto Osteria
 1. Ardany (ES000000007)
 2. Unggul Prayuda (ES000000008)
