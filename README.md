@@ -6,7 +6,7 @@ Kel B: (Aplikasi pemesanan menu restaurant) Resto Osteria
 1. Ardany (ES000000007)
 2. Unggul Prayuda (ES000000008)
 3. Muhammad Magfur (ES000000009)
-4. Khairul Fadhly (ES0000000010
+4. Khairul Fadhly (ES0000000010)
 
 
 
