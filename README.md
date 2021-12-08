@@ -1,6 +1,6 @@
 # UAS_UMN
 IF670-B Mobile Cross-Platform Programming
-Folder projek UAS ionic = https://drive.google.com/drive/folders/1F-imbALgWnpaic_atGXeoVR4Fkk8auam?usp=sharing  (Ditaruh di github terlalu besar, jadi ditaruh di drive)
+Folder projek UAS ionic = https://drive.google.com/drive/folders/1F-imbALgWnpaic_atGXeoVR4Fkk8auam?usp=sharing  (Ditaruh di github terlalu besar, jadi ditaruh di drive nama file Uas_Terfinal )
 
 File FIX + Revisi ada di link di atas
 
